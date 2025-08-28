@@ -9,6 +9,11 @@
 - https://dx.doi.org/10.1136/bmjdrc-2024-004174
 - https://dx.doi.org/10.1038/s41598-024-60160-0
 
+- My code:
+- https://github.com/Exeter-Diabetes/T1DvsT2D_atDiagnosis_adults
+- https://github.com/Exeter-Diabetes/MODY-calculator-clinical-paper
+- https://github.com/Exeter-Diabetes/Julieanne-Pedro-MODY-Referrals
+
 - My conferences:
 - https://doi.org/10.1111/dme.15498
 - https://doi.org/10.1007/s00125-024-06226-0
