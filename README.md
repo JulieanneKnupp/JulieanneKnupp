@@ -10,7 +10,9 @@
 - https://dx.doi.org/10.1038/s41598-024-60160-0
 
 - My conferences:
+- https://doi.org/10.1111/dme.15498
 - https://doi.org/10.1007/s00125-024-06226-0
+- https://doi.org/10.1111/dme.15295
 - https://doi.org/10.1007/s00125-023-05969-6
 - https://dx.doi.org/10.1016/j.euroneuro.2021.08.152
 
